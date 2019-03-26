@@ -9,9 +9,9 @@ Time Remaining: Time left until rollover<br/>
 Data Remaining: Data remaining until rollover<br/>
 GB/D To Date: Average data used per day since rollover<br/>
 GB/D Remaining: Average data available daily until rollover<br/>
-GB Spare: The data above the montly quota devided by days<br/>
+GB Spare: The data remaining above the average daily quota<br/>
 Month Progress: Time since rollover in a progress bar<br/>
 Data Progress: Data usage since rollover in a progress bar<br/>
-Est. Use/Remain: <br/>
+Est. Use/Remain: Average daily usage times days in the month<br/>
 Last Data Reset: Last date of rollover as set on the modem<br/>
 Last Updated: Date/time the page was generated
